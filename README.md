@@ -7,6 +7,7 @@ The **RZDG (Roadwork Zone Detection and Geo-localization)** dataset is a multi-m
 - 3D object detection and tracking 
 - Geo-localization of roadwork zones  
 
+The download is available at: [RZDG Download Link](https://onedrive.live.com/?id=03B3E2B15BD78A8A%21s1af5d6911b08497a95c2f3d721ef52bf&cid=03b3e2b15bd78a8a&ithint=folder&migratedtospo=true)
 ## Dataset Structure
 
 ### RZDG-Sim (Simulated)
