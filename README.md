@@ -62,7 +62,9 @@ git apply ../patches/AB3DMOT.patch
 
 This project is built upon the excellent open-source frameworks [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) and [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT). We sincerely thank the developers and maintainers of these repositories for their contributions to the research community.
 
-### BibTeX
+### Cite our paper
+
+```bibtex
 @inproceedings{yan2025framework,
   title={Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization},
   author={Yan, Zhiran and Xin, Yutong and Shenoi, S Shyam and Song, Rui and Elger, Gordon},
